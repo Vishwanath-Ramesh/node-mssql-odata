@@ -1,1 +1,1 @@
-# A React boilerplate setup with webpack and babel
+# A simple Node backend using MS Sql and OData
